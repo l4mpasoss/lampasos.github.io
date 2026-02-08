@@ -1,0 +1,7 @@
+/launcher/
+ ├── version.json
+ ├── files.json
+ └── mods/
+     └── cars/
+         ├── testcar.dff
+         └── testcar.txd
