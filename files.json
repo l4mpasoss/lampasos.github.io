@@ -1,0 +1,11 @@
+json
+[
+  {
+    "path": "modloader/cars/testcar.dff",
+    "url": "https://site/launcher/mods/cars/testcar.dff"
+  },
+  {
+    "path": "modloader/cars/testcar.txd",
+    "url": "https://site/launcher/mods/cars/testcar.txd"
+  }
+]
