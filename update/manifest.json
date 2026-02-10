@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.4",
   "baseUrl": "https://raw.githubusercontent.com/l4mpasoss/lampasos.github.io/main/update/client/",
   "files": [
-    { "path": "test.txt", "size": 11, "sha256": "B94D27B9934D3E08A52E52D7DA7DABFAC484EFE37A5380EE9088F7ACE2EFCDE9" }
+    { "path": "test.txt", "size": 12, "sha256": "" },
     { "path": "start.bat", "size": 0, "sha256": "" }
   ]
 }
