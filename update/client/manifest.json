@@ -1,7 +1,0 @@
-{
-  "version": "0.0.2",
-  "baseUrl": "https://github.com/l4mpasoss/lampasos.github.io/tree/75507ff7df0169e97cdffac83ccc08b8888cf2ac/update/client",
-  "files": [
-    { "path": "test.txt", "size": 11, "sha256": "" }
-  ]
-}
