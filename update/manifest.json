@@ -1,16 +1,8 @@
 {
   "version": "0.0.6",
-  "baseUrl": "https://raw.githubusercontent.com/l4mpasoss/lampasos.github.io/main/update/manifest.json",
+  "baseUrl": "https://raw.githubusercontent.com/l4mpasoss/lampasos.github.io/main/update/client/",
   "files": [
-    {
-      "path": "test.txt",
-      "size": 12,
-      "sha256": ""
-    },
-    {
-      "path": "start.bat",
-      "size": 0,
-      "sha256": ""
-    }
+    { "path": "test.txt", "size": 12, "sha256": "" },
+    { "path": "start.bat", "size": 0, "sha256": "" }
   ]
 }
