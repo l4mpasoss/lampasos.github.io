@@ -1,6 +1,6 @@
 {
   "version": "0.0.6",
-  "baseUrl": "https://raw.githubusercontent.com/l4mpasoss/lampasos.github.io/main/update/client/",
+  "baseUrl": "https://raw.githubusercontent.com/l4mpasoss/lampasos.github.io/main/update/manifest.json",
   "files": [
     {
       "path": "test.txt",
